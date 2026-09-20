@@ -111,7 +111,7 @@ pm.process_idle_timeout = 10s
 
 ## License
 
-MIT
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
