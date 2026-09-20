@@ -116,5 +116,5 @@ MIT
 ---
 
 **⭐ Support**
-- If this script helped you, give it a star on GitHub Gist!
+- If this script helped you, give it a star on GitHub!
 - Found it useful? Share it with your team or on social media.
